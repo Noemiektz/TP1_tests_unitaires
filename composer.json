@@ -1,0 +1,20 @@
+{
+    "name": "noemi/tp1_tests_unitaires",
+    "require": {
+        "symfony/phpunit-bridge": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Noemi\\Tp1TestsUnitaires\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Noemiektz",
+            "email": "noemiektourza@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
